@@ -6,7 +6,7 @@ description: >
   cost, throughput, and risk across production facilities.
 runtime: python
 entrypoint: engine:Engine
-license: Proprietary
+license: MIT
 marketplace: private
 author: RoboBrainstorm Team
 tags:
