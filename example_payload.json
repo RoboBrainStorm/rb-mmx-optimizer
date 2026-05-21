@@ -1,0 +1,18 @@
+{
+  "data": {
+    "columns": ["facility_id", "current_capacity", "expansion_cost_per_unit"],
+    "rows": [
+      ["FAC-EAST", 5000, 45000],
+      ["FAC-WEST", 3000, 55000],
+      ["FAC-MID", 4500, 50000],
+      ["FAC-SOUTH", 2000, 60000]
+    ],
+    "row_count": 4
+  },
+  "variables": {
+    "planning_horizon": 5,
+    "max_total_budget": 5000000,
+    "risk_tolerance": 0.80
+  },
+  "constraints": {}
+}

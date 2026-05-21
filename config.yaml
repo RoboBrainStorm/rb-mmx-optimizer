@@ -1,0 +1,14 @@
+name: mmx-optimizer
+version: 1.0.0
+description: >
+  Multi-objective manufacturing expansion optimizer.
+  Determines optimal capacity expansion strategy balancing
+  cost, throughput, and risk across production facilities.
+runtime: python
+entrypoint: engine:Engine
+marketplace: private
+author: RoboBrainstorm Team
+tags:
+  - optimization
+  - capacity-planning
+  - manufacturing
